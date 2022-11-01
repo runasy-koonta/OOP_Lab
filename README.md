@@ -1,6 +1,8 @@
 # 객체지향프로그래밍 실습과제
 > 2021학년도 1학기 경희대학교 객체지향프로그래밍 실습과제 코드 모음
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frunasy-koonta%2FOOP_Lab&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ## 어떤 코드가 포함되어 있나요?
 - 거의 모든 Lab (일부 Lab은 부득이하게 Visual Studio에서 작성해야 했기에 포함되지 않았습니다.)
 - 중간고사 (q1 test, q5, q6)
